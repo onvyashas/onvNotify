@@ -1,8 +1,8 @@
-# 🚀 onvNotify  LIne on : https://otp-nexus-ui.vercel.app/
+# 🚀 onvNotify  
 
 A **serverless notification system** that allows users to send **emails** and **SMS messages** directly from a website using **AWS services**.  
-
 This project demonstrates how to design an event-driven cloud workflow with **S3, API Gateway, Lambda, Step Functions, SES, and SNS**.  
+Live on: https://otp-nexus-ui.vercel.app/
 
 ---
 
