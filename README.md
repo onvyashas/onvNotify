@@ -1,4 +1,4 @@
-# 🚀 onvNotify  
+# 🚀 onvNotify  LIne on : https://otp-nexus-ui.vercel.app/
 
 A **serverless notification system** that allows users to send **emails** and **SMS messages** directly from a website using **AWS services**.  
 
